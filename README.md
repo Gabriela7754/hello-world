@@ -1,2 +1,3 @@
 # hello-world
-první uložiště
+První cvičení 
+První větev a pokračujeme dále
